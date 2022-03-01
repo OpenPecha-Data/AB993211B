@@ -1,0 +1,18 @@
+segment_sources:
+  P7EA81115:
+    type: origin_type
+    relation: translation
+    language: sa
+  PAD664EE9:
+    type: origin_type
+    relation: translation
+    language: zh
+  P692DD4BD:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  d7f79d5fca954a95b1817d65a6bdc572:
+    P7EA81115: d9c6d6bdcede49b8bf5350e9d20ec82d
+    PAD664EE9: 1e167414fc014989a8f9631042003c93
+    P692DD4BD: 694b13e0360c4ea08f850ab1dfccafc2
